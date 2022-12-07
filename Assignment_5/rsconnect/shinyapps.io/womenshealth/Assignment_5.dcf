@@ -1,0 +1,13 @@
+name: Assignment_5
+title: Assignment_5
+username:
+account: womenshealth
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7835215
+bundleId: 6602983
+url: https://womenshealth.shinyapps.io/Assignment_5/
+when: 1670392738.76374
+lastSyncTime: 1670392738.76376
+asMultiple: FALSE
+asStatic: FALSE
